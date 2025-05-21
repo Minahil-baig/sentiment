@@ -1,0 +1,9 @@
+# sentiment
+streamlit
+tensorlow
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+seaborn
+matplotlib
