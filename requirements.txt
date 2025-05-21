@@ -1,6 +1,6 @@
 # sentiment
 streamlit
-tensorlow
+tensorflow
 pandas
 numpy
 scikit-learn
